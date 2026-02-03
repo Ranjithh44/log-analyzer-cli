@@ -1,3 +1,4 @@
+![CI](https://github.com/Ranjithh44/log-analyzer-cli/actions/workflows/ci.yml/badge.svg)
 # Log Analyzer CLI
 
 A simple command-line tool written in Java that analyzes application
